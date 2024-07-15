@@ -6,6 +6,7 @@ import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { stagger, useAnimate } from "framer-motion";
 import { useHydrate } from "@/lib/hooks/first-render";
 import { useMediaQuery } from "usehooks-ts";
+import { useTranslations } from "next-intl";
 export function ListContainer({
 	show,
 	setShow,
@@ -13,6 +14,7 @@ export function ListContainer({
 	show: boolean;
 	setShow: Dispatch<SetStateAction<boolean>>;
 }) {
+	const t = useTranslations("navbar");
 	const [listScope, animate] = useAnimate();
 	const [listItemsScope, listItemsAnimate] = useAnimate();
 	const hasHydrated = useHydrate();
@@ -111,7 +113,7 @@ export function ListContainer({
 	return (
 		<ul
 			ref={listScope}
-			className="flex flex-col md:flex-row z-50 md:z-0 py-4 px-4 md:px-0 md:py-0 rounded-sm md:bg-transparent justify-start md:justify-center opacity-0 md:opacity-100 items-start md:items-center w-screen h-screen fixed md:static md:w-fit md:h-fit md:top-0 -top-full left-0 bg-gray-900/80 backdrop-blur-sm"
+			className="flex flex-col md:flex-row z-50 md:z-0 py-4 px-4 md:px-0 md:py-0  md:bg-transparent justify-start md:justify-center opacity-0 md:opacity-100 items-start md:items-center w-screen h-screen fixed md:static md:w-fit md:h-fit md:top-0 -top-full left-0 bg-gray-900/90 backdrop-blur-md"
 		>
 			<button
 				onClick={() => setShow(false)}
@@ -123,12 +125,12 @@ export function ListContainer({
 				ref={listItemsScope}
 				className="h-full w-full md:w-fit md:gap-x-6 md:h-fit px-4 flex flex-col md:flex-row md:items-center justify-between py-4 items-start"
 			>
-				<NavbarListItem href="#" content="Home" />
-				<NavbarListItem href="#" content="Projects" />
-				<NavbarListItem href="#" content="Services" />
-				<NavbarListItem href="#" content="Testimonials" />
-				<NavbarListItem href="#" content="About us" />
-				<NavbarListItem href="#" content="contact us" />
+				<NavbarListItem href="#" content={t("home")} />
+				<NavbarListItem href="#projects" content={t("projects")} />
+				<NavbarListItem href="#services" content={t("services")} />
+				<NavbarListItem href="#testimonials" content={t("testimonials")} />
+				<NavbarListItem href="#about_us" content={t("about_us")} />
+				<NavbarListItem href="#contact_us" content={t("contact_us")} />
 			</ul>
 		</ul>
 	);

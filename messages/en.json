@@ -1,0 +1,239 @@
+{
+	"home": {
+		"sub_headline": "Welcome to ConsQualif",
+		"headline_part_one": "Transforming Spaces,",
+		"headline_part_two": "Exceeding Expectations",
+		"cta": "Get In Touch",
+		"projects": {
+			"project_one": {
+				"features": {
+					"one": {
+						"title": "Design and Planning:",
+						"content": "Collaborated closely with the client to create a customized layout and aesthetic that enhanced usability and visual appeal."
+					},
+					"two": {
+						"title": "Demolition and Reconstruction:",
+						"content": "Managed all aspects of demolition and reconstruction, ensuring structural integrity and adherence to safety standards."
+					},
+					"three": {
+						"title": "Electrical System Upgrade:",
+						"content": "Upgraded the electrical system to accommodate new appliances and lighting fixtures, enhancing efficiency and safety."
+					},
+					"four": {
+						"title": "Finishing Touches:",
+						"content": "Installed premium cabinetry, countertops, and flooring, integrating high-quality materials to achieve a cohesive and stylish finish."
+					}
+				},
+				"title": "Kitchen renovation & Electrical Work",
+				"highlights": {
+					"sector": "Residential",
+					"industry": "Construction",
+					"client": "Families"
+				}
+			},
+			"project_two": {
+				"features": {
+					"one": {
+						"title": "Design and Planning:",
+						"content": "Developed a detailed design plan for the bathroom renovation, incorporating the client's preferences and modern design elements."
+					},
+					"two": {
+						"title": "Demolition and Reconstruction:",
+						"content": "Prepared the site for new installations, including rerouting plumbing lines and ensuring proper drainage for the French drains"
+					},
+					"three": {
+						"title": "Plumbing Installation:",
+						"content": "installed new plumbing fixtures, including faucets, shower heads, and toilets, ensuring efficient water flow and leak-proof connections."
+					},
+					"four": {
+						"title": "French Drains Installation:",
+						"content": "Excavated the necessary areas to install the French drains, ensuring proper slope and drainage paths."
+					}
+				},
+				"title": "Bathroom, Plumbing & French Drains",
+				"highlights": {
+					"sector": "Residential",
+					"industry": "Construction",
+					"client": "company"
+				}
+			},
+			"project_three": {
+				"features": {
+					"one": {
+						"title": "Initial Preparation:",
+						"content": "Conducted a thorough assessment of the walls and ceilings to identify areas needing repair or preparation."
+					},
+					"two": {
+						"title": "Plastering:",
+						"content": "Applied high-quality plaster to damaged or uneven areas, ensuring a smooth and level finish."
+					},
+					"three": {
+						"title": "Painting:",
+						"content": "Selected premium paints based on the client's color preferences and room usage, applied multiple coats of paint for even coverage and a professional finish, ensuring proper drying time between coats."
+					},
+					"four": {
+						"title": "Final Touches and Inspection:",
+						"content": "Conducted a detailed inspection to ensure a flawless finish and addressed any touch-ups needed."
+					}
+				},
+				"title": "Plastering & Painting",
+				"highlights": {
+					"sector": "Residential",
+					"industry": "Construction",
+					"client": "Families"
+				}
+			},
+			"project_four": {
+				"features": {
+					"one": {
+						"title": "Initial Consultation and Planning:",
+						"content": "Developed a detailed design plan, including structural considerations and aesthetic elements."
+					},
+					"two": {
+						"title": "Permits and Approvals:",
+						"content": "Prepared and submitted all necessary documentation to local authorities for permit applications, Secured all required permits and approvals to proceed with the construction."
+					},
+					"three": {
+						"title": "Construction and Execution:",
+						"content": "Commenced construction of the extension, adhering strictly to the approved design and regulations."
+					},
+					"four": {
+						"title": "Final Inspection and Handover:",
+						"content": "Conducted a comprehensive final inspection to ensure the extension met all design specifications and regulatory requirements."
+					}
+				},
+				"title": "Extensions & Permits",
+				"highlights": {
+					"sector": "Residential",
+					"industry": "Construction",
+					"client": "Families"
+				}
+			}
+		},
+		"slider": {
+			"recent_projects": "recent projects",
+			"sector": "sector",
+			"industry": "industry",
+			"client": "client"
+		},
+
+		"services": {
+			"headline": "What we can offer",
+			"design_permits_approvals": {
+				"title": "Design, Permits, and Approvals",
+				"content": "We provide comprehensive design services and handle all necessary permits and approvals, ensuring your project is beautifully planned and fully compliant with local regulations."
+			},
+			"renovations": {
+				"title": "Kitchen, Bathroom, and Basement Renovation",
+				"content": "Our renovation services transform kitchens, bathrooms, and basements into stylish, functional spaces with high-quality craftsmanship and innovative designs."
+			},
+			"remodeling_extensions": {
+				"title": "House Extensions and Remodeling Service",
+				"content": "We specialize in seamless house extensions and comprehensive remodeling, enhancing your living space with functional and aesthetically pleasing solutions."
+			},
+			"plumbing_electricity": {
+				"title": "Plumbing, Electrical, and French Drains Service",
+				"content": "Our expert team offers reliable plumbing, electrical, and French drain solutions, ensuring efficient and safe systems to protect and enhance your home."
+			},
+			"flooring": {
+				"title": "Flooring and Finishing Service",
+				"content": "We provide professional flooring installation and basement finishing, offering a wide range of materials to enhance the beauty and durability of your home."
+			}
+		},
+		"about_us": {
+			"headline": "A Little bit about us",
+			"mission": {
+				"headline": "Building Dreams, Crafting Excellence.",
+				"sub_headline": "Our Mission",
+				"content": "At ConsQualif, our mission is to bring your construction and renovation dreams life with the expertise of our skilled designers, engineers, and architects. By harnessing their collective talent and knowledge, we ensure that every project is executed with precision and innovation. From concept to completion, our team works collaboratively to create spaces that inspire. With a focus on safety, quality, and client satisfaction, we are dedicated to delivering exceptional results that surpass expectations."
+			},
+			"our_people": {
+				"headline": "Skilled, Talented, and Passionate about Your Vision.",
+				"sub_headline": "Our People",
+				"p_one": "At ConsQualif, our skilled team of designers, engineers, and architects is dedicated to turning your vision into reality. With extensive experience and a commitment to excellence, we prioritize building strong relationships and understanding your unique needs.",
+				"p_two": "Our collaborative approach fosters creativity, earning us a trusted reputation in the construction and renovation industry. When you choose ConsQualif, you can rely on our professionalism and focus on quality, safety, and client satisfaction. Let us make your project journey enjoyable while delivering exceptional results."
+			},
+			"process": {
+				"headline": "We make it easy",
+				"sub_headline": "Our Process",
+				"content": "We have a simple workflow that turns your ideas into reality. We pride ourselves on our dedication to making your experience the best.",
+				"steps": {
+					"one": {
+						"title": "get in touch",
+						"content": "Fill out the contact form below or give us a call and we will get in touch right away to schedule a visit and assessment of the project. We are pleased to provide service in Montreal and surrounding cities."
+					},
+					"two": {
+						"title": "assessment and free quote",
+						"content": "We will do a walk through to understand your needs and vision well. We will get back to you in an average of 1-2 weeks with a free quote and breakdown"
+					},
+					"three": {
+						"title": "contract and customer satisfaction",
+						"content": "Once a contract has been made, we will begin work right away! Our team works hard to complete your dream project."
+					}
+				}
+			}
+		},
+		"testimonials": {
+			"headline": "Trusted by individuals and companies",
+			"one": {
+				"name": "Amir V",
+				"content": "It was such an easy and seamless process working with ConsQualif for our bedroom renovation. They perfectly matched our vision for a third bedroom and made it into a reality. They're definitely getting a call back for our next one!"
+			},
+			"two": {
+				"name": "Tomas Boucher",
+				"content": "I'll admit I was on the fence about using Consqualif when I needed my home built. My friend referred them to me, so I went with his suggestion. I couldn't be happier with my decision! The team worked very hard, took all my feedback and completed the work within the time frame. Safety and customer satisfaction is their primary concern. Thank you, to the whole team!"
+			},
+			"three": {
+				"name": "Francine A",
+				"content": "Trying to work on the fixer-upper home   we bought became a nightmare where plumbing was concerned, so we hired ConsQualif for it.  They inspected and explained the plumbing to us before we even contracted them. They completed the project faster than expected and were affordable."
+			}
+		},
+		"contact_us": {
+			"headline": "We'd love to hear from you",
+			"p_one": "Contact us today to discuss your project requirements and let us create a space",
+			"p_two": "that is not only visually stunning but also environmentally conscious.",
+			"email": {
+				"label": "email",
+				"placeholder": "your email",
+				"error_message": "invalid email"
+			},
+			"first_name": {
+				"label": "first name",
+				"placeholder": "your first name",
+				"error_message": "invalid first name"
+			},
+			"last_name": {
+				"label": "last name",
+				"placeholder": "your last name",
+				"error_message": "invalid last name"
+			},
+			"message": {
+				"label": "message",
+				"placeholder": "your message",
+				"error_message": "invalid message",
+				"description": "send us a message telling us about your needs."
+			},
+			"btn": "send us a message",
+			"side": {
+				"phone": {
+					"title": "Call Us",
+					"subHeadline": "Mon-Fri from 8am to 5pm"
+				},
+				"address": {
+					"title": "Visit Us",
+					"contact": "700 Rue de Gaspé, Verdun Qc H3E 1H2",
+					"subHeadline": "come say hello at our HQ"
+				},
+				"RBQ": { "title": "RBQ", "subHeadline": "certified and trusted" }
+			}
+		}
+	},
+	"navbar": {
+		"home": "home",
+		"projects": "projects",
+		"services": "services",
+		"testimonials": "testimonials",
+		"contact_us": "contact us",
+		"about_us": "about us"
+	}
+}

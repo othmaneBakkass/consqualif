@@ -1,0 +1,241 @@
+{
+	"home": {
+		"sub_headline": "Bienvenue chez ConsQualif",
+		"headline_part_one": "Transformer les espaces,",
+		"headline_part_two": "Dépasser les attentes",
+		"cta": "Contactez-nous",
+		"projects": {
+			"project_one": {
+				"features": {
+					"one": {
+						"title": "Conception et Planification :",
+						"content": "Collaboré étroitement avec le client pour créer une disposition personnalisée et une esthétique qui améliore la convivialité et l'attrait visuel."
+					},
+					"two": {
+						"title": "Démolition et Reconstruction :",
+						"content": "Géré tous les aspects de la démolition et de la reconstruction, en assurant l'intégrité structurelle et le respect des normes de sécurité."
+					},
+					"three": {
+						"title": "Mise à Niveau du Système Électrique :",
+						"content": "Mise à niveau du système électrique pour accueillir de nouveaux appareils et luminaires, améliorant l'efficacité et la sécurité."
+					},
+					"four": {
+						"title": "Finitions :",
+						"content": "Installé des armoires, des comptoirs et des sols de qualité supérieure, intégrant des matériaux de haute qualité pour obtenir une finition cohérente et élégante."
+					}
+				},
+				"title": "Rénovation de Cuisine & Travaux Électriques",
+				"highlights": {
+					"sector": "Résidentiel",
+					"industry": "Construction",
+					"client": "Familles"
+				}
+			},
+			"project_two": {
+				"features": {
+					"one": {
+						"title": "Conception et Planification :",
+						"content": "Élaboré un plan de conception détaillé pour la rénovation de la salle de bain, en intégrant les préférences du client et des éléments de design modernes."
+					},
+					"two": {
+						"title": "Démolition et Reconstruction :",
+						"content": "Préparé le site pour de nouvelles installations, y compris le réacheminement des conduites de plomberie et l'assurance d'un drainage adéquat pour les drains français."
+					},
+					"three": {
+						"title": "Installation de Plomberie :",
+						"content": "Installé de nouveaux appareils de plomberie, y compris des robinets, des têtes de douche et des toilettes, assurant un flux d'eau efficace et des connexions étanches."
+					},
+					"four": {
+						"title": "Installation de Drains Français :",
+						"content": "Creusé les zones nécessaires pour installer les drains français, en assurant une pente et des chemins de drainage appropriés."
+					}
+				},
+				"title": "Salle de Bain, Plomberie & Drains Français",
+				"highlights": {
+					"sector": "Résidentiel",
+					"industry": "Construction",
+					"client": "Entreprise"
+				}
+			},
+			"project_three": {
+				"features": {
+					"one": {
+						"title": "Préparation Initiale :",
+						"content": "Effectué une évaluation approfondie des murs et des plafonds pour identifier les zones nécessitant des réparations ou une préparation."
+					},
+					"two": {
+						"title": "Plâtrage :",
+						"content": "Appliqué du plâtre de haute qualité sur les zones endommagées ou inégales, assurant une finition lisse et uniforme."
+					},
+					"three": {
+						"title": "Peinture :",
+						"content": "Sélectionné des peintures de qualité supérieure en fonction des préférences de couleur du client et de l'utilisation des pièces, appliqué plusieurs couches de peinture pour une couverture uniforme et une finition professionnelle, en assurant un temps de séchage adéquat entre les couches."
+					},
+					"four": {
+						"title": "Touches Finales et Inspection :",
+						"content": "Effectué une inspection détaillée pour garantir une finition parfaite et traité toutes les retouches nécessaires."
+					}
+				},
+				"title": "Plâtrage & Peinture",
+				"highlights": {
+					"sector": "Résidentiel",
+					"industry": "Construction",
+					"client": "Familles"
+				}
+			},
+			"project_four": {
+				"features": {
+					"one": {
+						"title": "Consultation Initiale et Planification :",
+						"content": "Élaboré un plan de conception détaillé, y compris les considérations structurelles et les éléments esthétiques."
+					},
+					"two": {
+						"title": "Permis et Approvals :",
+						"content": "Préparé et soumis toute la documentation nécessaire aux autorités locales pour les demandes de permis. Obtenu tous les permis et approbations nécessaires pour poursuivre la construction."
+					},
+					"three": {
+						"title": "Construction et Exécution :",
+						"content": "Commencé la construction de l'extension, en respectant strictement la conception approuvée et les règlements."
+					},
+					"four": {
+						"title": "Inspection Finale et Remise :",
+						"content": "Effectué une inspection finale complète pour s'assurer que l'extension répond à toutes les spécifications de conception et aux exigences réglementaires."
+					}
+				},
+				"title": "Extensions & Permis",
+				"highlights": {
+					"sector": "Résidentiel",
+					"industry": "Construction",
+					"client": "Familles"
+				}
+			}
+		},
+		"slider": {
+			"recent_projects": "projets récents",
+			"sector": "secteur",
+			"industry": "industrie",
+			"client": "client"
+		},
+		"services": {
+			"headline": "Ce que nous pouvons offrir",
+			"design_permits_approvals": {
+				"title": "Conception, Permis et Approvals",
+				"content": "Nous offrons des services de conception complets et nous occupons de tous les permis et approbations nécessaires, garantissant que votre projet est magnifiquement planifié et pleinement conforme aux réglementations locales."
+			},
+			"renovations": {
+				"title": "Rénovation de Cuisine, Salle de Bain et Sous-sol",
+				"content": "Nos services de rénovation transforment les cuisines, salles de bain et sous-sols en espaces élégants et fonctionnels grâce à un savoir-faire de haute qualité et des conceptions innovantes."
+			},
+			"remodeling_extensions": {
+				"title": "Service d'Extensions et de Remodelage de Maison",
+				"content": "Nous nous spécialisons dans les extensions de maison sans couture et le remodelage complet, en améliorant votre espace de vie avec des solutions fonctionnelles et esthétiques."
+			},
+			"plumbing_electricity": {
+				"title": "Service de Plomberie, Électricité et Drains Français",
+				"content": "Notre équipe d'experts offre des solutions fiables de plomberie, d'électricité et de drains français, assurant des systèmes efficaces et sûrs pour protéger et améliorer votre maison."
+			},
+			"flooring": {
+				"title": "Service de Revêtement de Sol et de Finition",
+				"content": "Nous offrons des services professionnels d'installation de revêtements de sol et de finition de sous-sol, avec une large gamme de matériaux pour améliorer la beauté et la durabilité de votre maison."
+			}
+		},
+		"about_us": {
+			"headline": "Un peu à propos de nous",
+			"mission": {
+				"headline": "Construire des rêves, créer de l'excellence.",
+				"sub_headline": "Notre Mission",
+				"content": "Chez ConsQualif, notre mission est de donner vie à vos rêves de construction et de rénovation grâce à l'expertise de nos designers, ingénieurs et architectes qualifiés. En exploitant leur talent et leurs connaissances collectives, nous nous assurons que chaque projet est exécuté avec précision et innovation. Du concept à la réalisation, notre équipe travaille en collaboration pour créer des espaces inspirants. Avec un accent sur la sécurité, la qualité et la satisfaction du client, nous nous engageons à fournir des résultats exceptionnels qui dépassent les attentes."
+			},
+			"our_people": {
+				"headline": "Compétents, Talentueux et Passionnés par Votre Vision.",
+				"sub_headline": "Nos Gens",
+				"p_one": "Chez ConsQualif, notre équipe de designers, ingénieurs et architectes qualifiés est dédiée à transformer votre vision en réalité. Avec une vaste expérience et un engagement envers l'excellence, nous priorisons l'établissement de relations solides et la compréhension de vos besoins uniques.",
+				"p_two": "Notre approche collaborative favorise la créativité, nous valant une réputation de confiance dans l'industrie de la construction et de la rénovation. Lorsque vous choisissez ConsQualif, vous pouvez compter sur notre professionnalisme et notre souci de la qualité, de la sécurité et de la satisfaction du client. Laissez-nous rendre votre projet agréable tout en fournissant des résultats exceptionnels."
+			},
+			"process": {
+				"headline": "Nous facilitons les choses",
+				"sub_headline": "Notre Processus",
+				"content": "Nous avons un flux de travail simple qui transforme vos idées en réalité. Nous sommes fiers de notre engagement à rendre votre expérience la meilleure.",
+				"steps": {
+					"one": {
+						"title": "contactez-nous",
+						"content": "Remplissez le formulaire de contact ci-dessous ou appelez-nous et nous vous contacterons immédiatement pour planifier une visite et une évaluation du projet. Nous sommes heureux de fournir des services à Montréal et dans les villes environnantes."
+					},
+					"two": {
+						"title": "évaluation et devis gratuit",
+						"content": "Nous ferons une visite pour bien comprendre vos besoins et votre vision. Nous vous répondrons dans un délai moyen de 1 à 2 semaines avec un devis gratuit et une répartition des coûts."
+					},
+					"three": {
+						"title": "contrat et satisfaction du client",
+						"content": "Une fois le contrat conclu, nous commencerons immédiatement le travail! Notre équipe travaille dur pour réaliser votre projet de rêve."
+					}
+				}
+			}
+		},
+		"testimonials": {
+			"headline": "Fiable par les particuliers et les entreprises",
+			"one": {
+				"name": "Amir V",
+				"content": "Ce fut un processus facile et sans heurts de travailler avec ConsQualif pour notre rénovation de chambre. Ils ont parfaitement correspondu à notre vision pour une troisième chambre et l'ont réalisée. Ils seront certainement rappelés pour notre prochain projet !"
+			},
+			"two": {
+				"name": "Tomas Boucher",
+				"content": "J'admets que j'étais hésitant à utiliser ConsQualif pour la construction de ma maison. Un ami me les a recommandés, alors j'ai suivi sa suggestion. Je ne pourrais pas être plus heureux de ma décision ! L'équipe a travaillé très dur, a pris en compte tous mes commentaires et a terminé le travail dans les délais. La sécurité et la satisfaction du client sont leurs principales préoccupations. Merci, à toute l'équipe !"
+			},
+			"three": {
+				"name": "Francine A",
+				"content": "Essayer de travailler sur la maison à rénover que nous avons achetée est devenu un cauchemar en ce qui concerne la plomberie, nous avons donc embauché ConsQualif pour cela. Ils ont inspecté et expliqué la plomberie avant même que nous les engagions. Ils ont terminé le projet plus rapidement que prévu et étaient abordables."
+			}
+		},
+		"contact_us": {
+			"headline": "Nous serions ravis de vous entendre",
+			"p_one": "Contactez-nous dès aujourd'hui pour discuter de vos besoins en matière de projet et laissez-nous créer un espace",
+			"p_two": "qui est non seulement visuellement époustouflant mais aussi respectueux de l'environnement.",
+			"email": {
+				"label": "email",
+				"placeholder": "votre email",
+				"error_message": "email invalide"
+			},
+			"first_name": {
+				"label": "prénom",
+				"placeholder": "votre prénom",
+				"error_message": "prénom invalide"
+			},
+			"last_name": {
+				"label": "nom",
+				"placeholder": "votre nom",
+				"error_message": "nom invalide"
+			},
+			"message": {
+				"label": "message",
+				"placeholder": "votre message",
+				"error_message": "message invalide",
+				"description": "envoyez-nous un message nous expliquant vos besoins."
+			},
+			"btn": "envoyez-nous un message",
+			"side": {
+				"phone": {
+					"title": "Appelez-nous",
+					"subHeadline": "Lun-Ven de 8h à 17h"
+				},
+				"address": {
+					"title": "Venez nous voir",
+					"contact": "700 Rue de Gaspé, Verdun Qc H3E 1H2",
+					"subHeadline": "venez dire bonjour à notre siège social"
+				},
+				"RBQ": {
+					"title": "RBQ",
+					"subHeadline": "certifié et de confiance"
+				}
+			}
+		}
+	},
+	"navbar": {
+		"home": "accueil",
+		"projects": "projets",
+		"services": "services",
+		"testimonials": "témoignages",
+		"contact_us": "contactez-nous",
+		"about_us": "à propos de nous"
+	}
+}
